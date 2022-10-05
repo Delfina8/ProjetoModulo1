@@ -1,7 +1,7 @@
 # Projeto - Módulo 1
 
 
-# Plant Care - Programa desenvolvido para ajudar pessoas no cuidado de plantas
+# Plante Care: Cuide da sua planta - Programa desenvolvido para ajudar pessoas no cuidado de plantas
 
 Programa desenvolvido no Bootcamp da Generation Brasil.
 
