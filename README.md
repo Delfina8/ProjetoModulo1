@@ -1,8 +1,9 @@
-# ProjetoModulo1
+# Projeto - Módulo 1
 
 
-# Título do projeto
+# Plant Care - Programa desenvolvido para ajudar pessoas no cuidado de plantas
 
-Um parágrafo da descrição do projeto vai aqui
+Programa desenvolvido no Bootcamp da Generation Brasil
+O usuário escolhe as opções que refletem o estado da sua planta e o programa retorna as recomendações necessárias para o seu cuidado. 
 
-## 🚀 Começando
+## 🌱
